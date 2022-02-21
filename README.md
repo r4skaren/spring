@@ -80,7 +80,3 @@ MySQL JDBC and R2DBC driver.
 </project>
 ~~~
   
-  <br>
-  
-## :dart: Status do projeto
-Em andamento ♻ Registro de (02/10/2021)
